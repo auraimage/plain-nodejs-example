@@ -8,6 +8,6 @@
     "start": "node src/server.js"
   },
   "dependencies": {
-    "@auraimage/sdk": "file:../../oss/sdk"
+    "@auraimage/sdk": "^0.7.0"
   }
 }
