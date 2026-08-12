@@ -163,5 +163,5 @@ AI agent with [Agent Skills](https://github.com/auraimage/skills) and the
 
 This repository is generated from the AuraImage monorepo, so pull requests
 opened here are overwritten on the next sync. Please
-[open an issue](https://github.com/auraimage/skills/issues) instead — bugs
+[open an issue](https://github.com/auraimage/plain-nodejs-example/issues) instead — bugs
 in this example are fixed upstream and mirrored back within minutes.
